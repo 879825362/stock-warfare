@@ -10,4 +10,4 @@
 
 ## 战法更新
 
-义父传授新内容时，同步更新 `.claude/commands/stock-check.md`。
+传授新内容时，同步更新 `.claude/commands/stock-check.md`。
